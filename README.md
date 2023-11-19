@@ -23,7 +23,15 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostscypher&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ghostscypher" /></p>
+<h3 align="left">Github Contributions:</h3>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ghostscypher/ghostscypher/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostscypher&theme=monokai" alt="ghostscypher" /></p>
 
 ###
 
@@ -31,14 +39,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostscypher&theme=monokai" alt="ghostscypher" /></p>
-
-###
-
-<h3 align="left">Github Contributions:</h3>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ghostscypher/ghostscypher/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostscypher&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ghostscypher" /></p>
 
 ###
