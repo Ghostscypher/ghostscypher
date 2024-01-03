@@ -5,7 +5,7 @@
 
 <h3>About me:</h3>
 
-I am a passionate backend developer with 7+ years of experience. I primarily specialize in PHP backend. Being a backend developer, we are rarely seen by the users, always lurking in the shadows but that's where the magic happen. I know i'll probably start a war with this but I believe backend developers are the real MVPs, the unsung heroes of the internet. Or maybe I'm just biased 😉. Any person dealing with systems not involving any form of visual feedback, just a bunch of texts and sometimes gibberish (K8s guys know what I'm talking about), in my opinion is borderline psychotic if not mad. And I am here for the crazy ride. And I love it.
+I am a passionate backend developer with 7+ years of experience. I primarily specialize in PHP backend. Being a backend developer, we are rarely seen by the users, always lurking in the shadows but that's where the magic happen. I know i'll probably start a war with this but I believe backend developers are the real MVPs, the unsung heroes of the internet. Or maybe I'm just biased 😉. Any person dealing with systems not involving any form of visual feedback, just a bunch of texts and sometimes gibberish (Kubernetes guys know what I'm talking about), in my opinion is borderline psychotic if not straight up mad. And I am here for the crazy ride. And I love it. As one mad lad once said, _"I'm not crazy, my reality is just different than yours."_
 
 In my free time I like working on visualizations mostly in P5 JS and simulations, but outside of the computer world I do what any normal developer does: Think about that bug that's been bugging me for the past 3 days, and how to fix it.
 
