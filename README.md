@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h2 align="center">A very handsome (by handsome I mean my mom says I'm handsome) backend developer</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostscypher&theme=monokai" alt="ghostscypher" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostscypher&theme=onedark" alt="ghostscypher" /></a> </p>
 
 <h3>About me:</h3>
 
